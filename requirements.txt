@@ -1,0 +1,7 @@
+streamlit>=1.35
+pvlib>=0.11
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+requests>=2.31
+openpyxl>=3.1
